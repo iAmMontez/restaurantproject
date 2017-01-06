@@ -1,0 +1,125 @@
+/*** sectioning elements ***/
+
+body {
+background-color: #ff0000;
+
+}
+
+header {
+font-family: 'Prociono', serif;
+color: #ffffff;
+text-align: center;
+
+}
+
+main {
+font-family: 'Prociono', serif;
+color: #000000;
+}
+
+footer {
+color:#000000;
+}
+
+nav {
+color:#000000;
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+color:#000000;
+}
+
+h2 {
+color:#000000;
+text-align: center;
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+text-align: center;
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+list-style-type: none;
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img {
+  float: right;
+  text-align: center;
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
